@@ -3,7 +3,7 @@
 Right to Left alignment is not supported using the `UIDatePicker`.  See screenshots below.  All screenshots taken using iPhone 7 with language set to Arabic.
 
 ## Sample app - 1 character in picker column
-![Sample App 1 char](https://user-images.githubusercontent.com/8205723/48210580-71ac8d00-e32c-11e8-86e2-0dbe58ef2ef7.png "Sample App 1 char")
+![Sample App 1 char](https://user-images.githubusercontent.com/8205723/48211653-ca7d2500-e32e-11e8-9c22-4de986bed544.png "Sample App 1 char")
 
 ## Sample app - 2 characters in picker column
 ![Sample App 2 char](https://user-images.githubusercontent.com/8205723/48211661-d1a43300-e32e-11e8-8310-e60f8fd78403.png "Sample App 2 char")
